@@ -41,4 +41,4 @@
 - Rekomendasi :
   - Fokus promosi pada wilayah dengan penjualan rendah.
   - Optimalkan strategi pemasaran pada periode dengan permintaan tinggi.
-<center><img src="Dasboard UMKM.png"></img></center>
+<center><img src="Gambar\Dasboard UMKM.png"></img></center>
