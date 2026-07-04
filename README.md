@@ -53,7 +53,7 @@ Analisis dilakukan menggunakan Microsoft Excel dan visualisasi dasboar interakti
 ## Insight & Rekomendasi
   Bagian ini menunjukkan kemampuan menginterpretasikan hasil analisis, bukan hanya menyajikan angka.
 - Insight :
-  - Kota denpasar berkontribusi 30% dati total sales
+  - Kota denpasar berkontribusi 30% dari total sales
   - Kategori Map A4 menjadi product yang banyak terjual di 4 tahun terakhir
   - Penjualan menurun sekitar 50% di 2025 dibandingkan 2024
 - Rekomendasi :
