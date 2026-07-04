@@ -20,10 +20,10 @@
    - Kolom : ID_Transaction	Order_date,ID_Customer,	Product,Brand,Harga,Kuantitas,Harga_Total,Total_Diskon,Total_Sales,Biaya_Ongkir,Grand_Total,Status Order,Payment_Method,Nama_Customer,Gender,Alamat,Kota
 - Data Preparation:
    - [x] Menghapus data duplikat
-   - Menangani missing value
-   - Mengubah tipe data
-   - Membuat kolom baru
-   - Filtering data
+   - [x] Menangani missing value
+   - [x] Mengubah tipe data
+   - [x] Membuat kolom baru
+   - [x] Filtering data
 ## Proses Analisa
   Analisa dilakukan menggunakan Microsoft Excel
   - Mengimport data = import dataset ke Microsoft Excel
