@@ -1,11 +1,11 @@
-# Analisis penjualan alat tulis
+# Analisis Penjualan Alat Tulis UMKM
 ## Overview
-- Portofolio dibuat sebagai media untuk mendokumentasikan hasil belajar dan menunjukkan kemampuan kepada recruiter, mentor, dan komunitas data
-- Target role dari showcase ini adalah Data Analyst dan Business Intelligence 
-- Value yang ingin ditonjolkan
-  - Konsisten mengerjakan project analisis data end to end
-  - Mampu menguasai tools seperti python,Excel, SQL, dan Power BI
-  - Mampu mengubah data mentah menjadi insight yang bernilai
+ Proyek ini menganalisis data penjualan dari UMKM alat tulis untuk mengidentifikasi : 
+  - Produk terlaris
+  - Kota dengan kinerja terbaik
+  - Tren penjualan
+  - Perilaku pembayaran pelanggan
+Analisis dilakukan menggunakan Microsoft Excel dan visualisasi dasboar interaktif.
 ## About Me
 - Saya seorang lulusan Teknik Elektro yang memiliki ketertarikan di bidang data analisis
 - Tools yang di biasa digunakan seperti :
