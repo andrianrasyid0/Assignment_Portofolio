@@ -45,13 +45,11 @@ Analisis dilakukan menggunakan Microsoft Excel dan visualisasi dasboar interakti
    - [x] Filtering data
 ## Proses Analisa
   Analisa dilakukan menggunakan Microsoft Excel
-  - Mengimport data = import dataset ke Microsoft Excel
-  - Membersihkan data = Menghapus data duplikat,menangani data kososng, memperbaiki format data
-  - Menghitung total penjualan = Menggunkan Pivot Table untuk menghitung total penjualan, jumlah transaksi, atau keuntungan berdasarkan kategori, produk, atau wilayah
-  - Menghitung profit tiap kategori = Menggunakan rumus Excel seperti SUM, AVERAGE, COUNT
-  - Menganalisis tren penjualan tahunan = Menggunakan rumus Excel seperti SUM, AVERAGE, COUNT
-  - Menganalisis produk terlaris = Menggunakan rumus Excel seperti SUM, AVERAGE, COUNT
-  - Membandingkan performa antar wilayah = Membuat grafik seperti Bar Chart, Column Chart, Line Chart, atau Pie Chart untuk memperjelas hasil analisis.
+  - Analisis tren penjualan
+  - Analisis kinerja produk
+  - Perbandingan penjualan regional
+  - Analisis metode penjualan
+  - Analisis biaya pengiriman
 ## Insight & Rekomendasi
   Bagian ini menunjukkan kemampuan menginterpretasikan hasil analisis, bukan hanya menyajikan angka.
 - Insight :
