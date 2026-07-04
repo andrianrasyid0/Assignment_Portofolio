@@ -16,7 +16,7 @@
  - Data understanding :
    - Dataset : UMKM Alat Tulis
    - Jumlah data : 10005
-   - Periode : 2022 - 2025
+   - Periode : 2022 - 2025 
    - Kolom : ID_Transaction	Order_date,ID_Customer,	Product,Brand,Harga,Kuantitas,Harga_Total,Total_Diskon,Total_Sales,Biaya_Ongkir,Grand_Total,Status Order,Payment_Method,Nama_Customer,Gender,Alamat,Kota
 - Data Preparation:
    - Menghapus data duplikat
