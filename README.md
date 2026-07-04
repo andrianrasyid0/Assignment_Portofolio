@@ -1,12 +1,13 @@
-# Tujuan Pembuatan Portofolio
+# Analisis penjualan alat tulis
+## Overview
 - Portofolio dibuat sebagai media untuk mendokumentasikan hasil belajar dan menunjukkan kemampuan kepada recruiter, mentor, dan komunitas data
 - Target role dari showcase ini adalah Data Analyst dan Business Intelligence 
 - Value yang ingin ditonjolkan
   - Konsisten mengerjakan project analisis data end to end
   - Mampu menguasai tools seperti python,Excel, SQL, dan Power BI
   - Mampu mengubah data mentah menjadi insight yang bernilai
-## Portofolio
-- Saya seorang lulusan Teknik Elektro yang memiliki ketertarikan di bidang data analyst. Saya belajar menggunakan tools seperti Python,SQL dan Excel untuk menggelolah data dan memberikan insight yang mendukung pengambilan keputusan.
+## About Me
+- Saya seorang lulusan Teknik Elektro yang memiliki ketertarikan di bidang data analisis
 - Tools yang di biasa digunakan seperti :
   - Python (Pandas,numpy)
   - SQL
@@ -36,9 +37,9 @@
 ## Insight & Rekomendasi
   Bagian ini menunjukkan kemampuan menginterpretasikan hasil analisis, bukan hanya menyajikan angka.
 - Insight :
-  - Kota denpasar menghasilkan total sales tertinggi
+  - Kota denpasar berkontribusi 30% dati total sales
   - Kategori Map A4 menjadi product yang banyak terjual di 4 tahun terakhir
-  - Tahun 2025 total sales menurun hingga 50%
+  - Penjualan menurun sekitar 50% di 2025 dibandingkan 2024
 - Rekomendasi :
   - Fokus promosi pada wilayah dengan penjualan rendah.
   - Optimalkan strategi pemasaran pada periode dengan permintaan tinggi.
