@@ -19,7 +19,7 @@
    - Periode : 2022 - 2025 
    - Kolom : ID_Transaction	Order_date,ID_Customer,	Product,Brand,Harga,Kuantitas,Harga_Total,Total_Diskon,Total_Sales,Biaya_Ongkir,Grand_Total,Status Order,Payment_Method,Nama_Customer,Gender,Alamat,Kota
 - Data Preparation:
-   - Menghapus data duplikat
+   [x] Menghapus data duplikat
    - Menangani missing value
    - Mengubah tipe data
    - Membuat kolom baru
