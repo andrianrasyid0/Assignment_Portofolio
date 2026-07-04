@@ -6,7 +6,7 @@
   - Mampu menguasai tools seperti python,Excel, SQL, dan Power BI
   - Mampu mengubah data mentah menjadi insight yang bernilai
 ## Portofolio
-- Saya seorang lulusan Teknik Elektro yang memiliki ketertarikan di bidang data analyst. Saya belajar menggunakan tools seperti Python,SQL dan Excel untuk menggelolah data dan memberikan insight yang mendukung pengabilan keputusan.
+- Saya seorang lulusan Teknik Elektro yang memiliki ketertarikan di bidang data analyst. Saya belajar menggunakan tools seperti Python,SQL dan Excel untuk menggelolah data dan memberikan insight yang mendukung pengambilan keputusan.
 - Tools yang di biasa digunakan seperti :
   - Python (Pandas,numpy)
   - SQL
