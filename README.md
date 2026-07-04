@@ -13,13 +13,30 @@ Analisis dilakukan menggunakan Microsoft Excel dan visualisasi dasboar interakti
   - Python (Pandas,numpy)
   - SQL
   - Excel(Power Query,Pivot table, Dashboard)
-## Problem Statement
+## Data Understanding
  - Analisa penjualan UMKM alat tulis , penjual ingin mengetahui product mana yang paling laku dan dari kota mana supaya bisa meningkatkan total sales
  - Data understanding :
    - Dataset : UMKM Alat Tulis
    - Jumlah data : 10005
    - Periode : 2022 - 2025 
-   - Kolom : ID_Transaction	Order_date,ID_Customer,	Product,Brand,Harga,Kuantitas,Harga_Total,Total_Diskon,Total_Sales,Biaya_Ongkir,Grand_Total,Status Order,Payment_Method,Nama_Customer,Gender,Alamat,Kota
+   - Kolom :
+     - ID_Transaction	Order_date
+     - ID_Customer
+     - Product
+     - Brand
+     - Harga
+     - Kuantitas
+     - Harga_Total
+     - Total_Diskon
+     - Total_Sales
+     - Biaya_Ongkir
+     - Grand_Total
+     - Status Order
+     - Payment_Method
+     - Nama_Customer
+     - Gender
+     - Alamat
+     - Kota
 - Data Preparation:
    - [x] Menghapus data duplikat
    - [x] Menangani missing value
