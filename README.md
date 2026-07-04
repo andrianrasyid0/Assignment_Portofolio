@@ -5,7 +5,7 @@
   - Kota dengan kinerja terbaik
   - Tren penjualan
   - Perilaku pembayaran pelanggan
-Analisis dilakukan menggunakan Microsoft Excel dan visualisasi dasboar interaktif.
+ Analisis dilakukan menggunakan Microsoft Excel dan visualisasi dasboar interaktif.
 ## About Me
 - Saya seorang lulusan Teknik Elektro yang memiliki ketertarikan di bidang data analisis
 - Tools yang di biasa digunakan seperti :
